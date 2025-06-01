@@ -2,10 +2,6 @@
 
 A full-featured **Markdown Notes Management App** built with **ReactJS**, **Firebase**, and **React-MDE**. Create, edit, and delete notes seamlessly with real-time updates, auto-save, and markdown preview support.
 
-Check out the project over here : 
-
-https://68330d768988c67ee3fc5f3f--notesmanagementsystem-reactjs.netlify.app/
-
 ---
 
 ## ✨ Features
